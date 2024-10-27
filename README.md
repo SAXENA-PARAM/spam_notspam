@@ -1,6 +1,6 @@
 # Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SAXENA-PARAM/span_notspam.git)
+![GitHub repo size](https://img.shields.io/github/repo-size/SAXENA-PARAM/spam_notspam.git)
 
 ## Demo
 
@@ -11,12 +11,11 @@
 Linux and macOS:
 
 ```bash
-git clone https://github.com/SAXENA-PARAM/personal-portfolio.git
+git clone https://github.com/SAXENA-PARAM/spam_notspam.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/SAXENA-PARAM/personal-portfolio.git
-```
+git clone https://github.com/SAXENA-PARAM/spam_notspam.git
 
