@@ -1,6 +1,6 @@
 # Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SAXENA-PARAM/spam_notspam.git)
+![GitHub repo size](https://img.shields.io/github/repo-size/SAXENA-PARAM/spam_notspam)
 
 ## Demo
 
